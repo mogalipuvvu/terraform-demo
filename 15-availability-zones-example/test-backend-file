@@ -1,0 +1,4 @@
+bucket = "mana-state-bucket"
+key    = "lock-example/state-lock-demo"
+region = "us-east-2"
+dynamodb_table="terraform_lock_table"
